@@ -1,0 +1,5 @@
+# You need to modify this config file
+defaults:
+  - task: mnist_classificaiton
+  - data_module: mnist
+  - trainer: gpu
